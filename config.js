@@ -11,9 +11,9 @@ define('yummly_host', 'api.yummly.com');
 
 define('yummly_pathname', '/v1/api/recipes');
 
-define('yummly_app_id', '1ec27dec');
+define('yummly_app_id', '****************');
 
-define('yummly_app_key', 'ef78a12f28358f52077bb10d670efcee');
+define('yummly_app_key', '********************************');
 
 define({
     'metadata': {
@@ -79,4 +79,4 @@ define('queryParams', {
 // https://api.yummly.com/v1/api/meta_info_needed_for?app_id=APP_ID&app_key=APP_KEY
 
 // example 
-//http://api.yummly.com/v1/api/recipes?_app_id=1ec27dec&_app_key=ef78a12f28358f52077bb10d670efcee&q=biryani
+//http://api.yummly.com/v1/api/recipes?_app_id=****************&_app_key=********************************&q=biryani
